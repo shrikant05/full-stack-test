@@ -1,0 +1,12 @@
+
+1)How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use 
+ this as an opportunity to explain what you would add.
+ -->I spend 3 days in these coding test.If I would have more time then I would add crud functionality 
+    and customize the tabs.
+
+
+2)How would you track down a performance issue in production? Have you ever had to do this?
+-->No, there wasn't performance issue in production.But aligning columns had taken more time as I was using these feature after a long time.
+
+3)Please describe yourself using JSON.
+-->I never used json before but I know the functionality of json. 
